@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        LeetCode Contest: Open All Problems
 // @namespace   JohnZhu04
-// @match       https://leetcode.com/contest/*-contest-*/
+// @match       https://leetcode.com/contest/*/
 // @grant       none
 // @version     1.1
 // @author      JohnZhu04
